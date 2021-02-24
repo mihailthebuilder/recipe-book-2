@@ -1,5 +1,6 @@
 <template name="NewRecipe">
   <span>This is a new recipe</span>
   <div class="new-recipe-container">
+    {{> quickForm collection=getRecipesCollection id="insertRecipeForm" type="insert" class="new-recipe-form"}}
   </div>
 </template>

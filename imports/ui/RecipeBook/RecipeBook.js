@@ -1,2 +1,2 @@
 import "./RecipeBook.html";
-import "../NewRecipe/NewRecipe.html";
+import "../NewRecipe/NewRecipe.js";
