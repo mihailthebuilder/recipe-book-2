@@ -28,7 +28,7 @@ spiderable
 fastclick
 raix:handlebar-helpers
 aldeed:collection2
-aldeed:autoform
+aldeed:autoform@6.3.0
 accounts-ui
 accounts-password
 msavin:jetsetter
