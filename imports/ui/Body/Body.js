@@ -1,7 +1,7 @@
 import "./Body.html";
 import "../Home/Home.html";
 import "../Test/Test.html";
-import "../RecipeBook/RecipeBook.html";
+import "../RecipeBook/RecipeBook.js";
 
 FlowRouter.route("/", {
   name: "home",
